@@ -1,0 +1,6 @@
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestEvent\TestEvent\bin\Debug\TestEvent.exe.config
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestEvent\TestEvent\obj\Debug\TestEvent.csprojResolveAssemblyReference.cache
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestEvent\TestEvent\obj\Debug\Interop.SAPbouiCOM.dll
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestEvent\TestEvent\obj\Debug\TestEvent.csproj.ResolveComReference.cache
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestEvent\TestEvent\obj\Debug\TestEvent.Properties.Resources.resources
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestEvent\TestEvent\obj\Debug\TestEvent.csproj.GenerateResource.Cache
